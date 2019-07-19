@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/942697-2b13f41b3e227b72.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }, {
+      "id": 2,
+      "title": "社会热点",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/942697-2b13f41b3e227b72.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }, {
+      "id": 3,
+      "title": "社会热点",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/942697-2b13f41b3e227b72.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }],
+    "articleList": [{
+      "id": 111,
+      "title": "css基础系列",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/11158618-54d3d363175d2020.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "desc": "盒子模型 盒子模型的概念 高和宽的设置 边框的设置 内边距的设置 外边距的设置 盒子的计算 元素显示的方式 盒子模型： border边框，mar..."
+    },{
+      "id": 222,
+      "title": "css基础系列",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/11158618-54d3d363175d2020.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "desc": "盒子模型 盒子模型的概念 高和宽的设置 边框的设置 内边距的设置 外边距的设置 盒子的计算 元素显示的方式 盒子模型： border边框，mar..."
+    }, {
+      "id": 333,
+      "title": "css基础系列",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/11158618-54d3d363175d2020.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "desc": "盒子模型 盒子模型的概念 高和宽的设置 边框的设置 内边距的设置 外边距的设置 盒子的计算 元素显示的方式 盒子模型： border边框，mar..."
+    }],
+    "recommendList": [{
+      "id": 11,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+    }, {
+      "id": 22,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    }, {
+      "id": 33,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    }, {
+      "id": 44,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }]
+  }
+}
